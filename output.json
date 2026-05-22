@@ -1,0 +1,57 @@
+{
+    "product_name": "Blackberrys Self-Design Polo Collar Slim Fit T-shirt",
+    "product_code": 31418488,
+    "product_mrp": 1309,
+    "discounted_mrp": 785,
+    "discount_per": 40.03,
+    "rating_info": {
+        "5": 115,
+        "4": 41,
+        "3": 11,
+        "2": 9,
+        "1": 14
+    },
+    "ratings": 190,
+    "avg_ratings": 4.23,
+    "size_status": [
+        {
+            "label": "XS",
+            "isAvailable": false
+        },
+        {
+            "label": "S",
+            "isAvailable": true
+        },
+        {
+            "label": "M",
+            "isAvailable": true
+        },
+        {
+            "label": "L",
+            "isAvailable": true
+        },
+        {
+            "label": "XL",
+            "isAvailable": false
+        },
+        {
+            "label": "XXL",
+            "isAvailable": true
+        },
+        {
+            "label": "3XL",
+            "isAvailable": false
+        }
+    ],
+    "seller_name": "Flashstar Commerce",
+    "product_specifications": {
+        "product_code": "31418488",
+        "lenght": "Regular",
+        "neck style": "Polo Collar",
+        "fabric_info": "Cotton, Polyester",
+        "fashion_trends": "New Basics",
+        "wash_care": "Machine Wash",
+        "transparency": null,
+        "number_of_items": 1
+    }
+}
